@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+require("dotenv").config();
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
@@ -22,6 +23,7 @@ module.exports = {
     },
     edutest: {
       url: "https://rpc.open-campus-codex.gelato.digital",
+      accounts: [process.env.PK],
     },
   }
 };
