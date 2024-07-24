@@ -68,7 +68,7 @@ npx hardhat test
 
 ### 2. Deployment
 
-Run the following command to compile the contracts using the Solidity compiler and deploy the WETH to your Edu chain network.
+Run the following command to compile the contracts using the Solidity compiler and deploy the EduswapV2Router to your Edu chain network.
 
 ```bash
 npx hardhat run scripts/deploy.js --network edutest
