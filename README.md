@@ -5,6 +5,9 @@ This repository contains the EduswapV2Periphery contract, which complements the 
 ### Deployment Address
 
 - EduswapV2Router: [0xe745f43775B760958cd34ee83B3ab0c088F74630](https://opencampus-codex.blockscout.com/address/0xe745f43775B760958cd34ee83B3ab0c088F74630)
+- USDC: [0x7aFB87aE9E37c365955012527f8a9039D6F2CA30](https://opencampus-codex.blockscout.com/address/0x7aFB87aE9E37c365955012527f8a9039D6F2CA30)
+- BTC: [0x324e4d9afbEe1b5cA0c0F37e7b771a18094B39A6](https://opencampus-codex.blockscout.com/address/0x324e4d9afbEe1b5cA0c0F37e7b771a18094B39A6)
+- ETH: [0x90f2F4E97Eb6B62D9049D07C6f6877FD171a9a0F](https://opencampus-codex.blockscout.com/address/0x90f2F4E97Eb6B62D9049D07C6f6877FD171a9a0F)
 
 ## Prerequisites
 
