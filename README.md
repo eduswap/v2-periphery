@@ -9,6 +9,7 @@ This repository contains the EduswapV2Periphery contract, which complements the 
 - BTC: [0x324e4d9afbEe1b5cA0c0F37e7b771a18094B39A6](https://opencampus-codex.blockscout.com/address/0x324e4d9afbEe1b5cA0c0F37e7b771a18094B39A6)
 - ETH: [0x90f2F4E97Eb6B62D9049D07C6f6877FD171a9a0F](https://opencampus-codex.blockscout.com/address/0x90f2F4E97Eb6B62D9049D07C6f6877FD171a9a0F)
 - ARB: [0x3FBA3ef10e452D1e8Cc6C0cf552A8A25b572Ec41](https://opencampus-codex.blockscout.com/address/0x3FBA3ef10e452D1e8Cc6C0cf552A8A25b572Ec41)
+- EDUSWAP: [0x104A0F99728D5a79dbEbB4a0a58eCcb456e82411](https://opencampus-codex.blockscout.com/address/0x104A0F99728D5a79dbEbB4a0a58eCcb456e82411)
 
 ## Prerequisites
 
